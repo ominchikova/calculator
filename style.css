@@ -34,6 +34,7 @@ input {
     padding: 5px;
     background: #061620;
     border: 1px solid #00060a;
+	text-align: end;
 }
 .row {
     width: 370px;
