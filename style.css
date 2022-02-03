@@ -24,6 +24,7 @@ input {
 }
 
 .header__input {
+<<<<<<< HEAD
 	width: 370px;
 	height:120px;
 	box-sizing: border-box;
@@ -35,6 +36,19 @@ input {
 	background: #061620;
 	border: 1px solid #00060a;
   text-align: end;
+=======
+    width: 370px;
+    height:120px;
+    box-sizing: border-box;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 52px;
+    color: #ffffff;
+    margin: 30px 10px 20px 10px;
+    padding: 5px;
+    background: #061620;
+    border: 1px solid #00060a;
+	text-align: end;
+>>>>>>> e7541207dcb62a85cef63f5fb6c267378ca5375d
 }
 .row {
 	width: 370px;
